@@ -1,1 +1,1 @@
-[DEMO LINK](https://onlyraydek.github.io/fullscreen-pure-js/)
+[DEMO LINK](https://onlyraydek.github.io/fullscreen-slider-pure-js/)
